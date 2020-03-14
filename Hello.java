@@ -6,4 +6,5 @@ public class Hello {
 		System.out.println("Hello World");
 	}
 int apple = 2;
+	int orange = 1;
 }
